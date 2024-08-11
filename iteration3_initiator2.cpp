@@ -1,5 +1,5 @@
 // Define pin for retraction distance knob
-const int retractDistanceKnobPin = A4;  // Assuming A4 is used for the knob
+const int retractDistanceKnobPin = A7;  // Assuming A4 is used for the knob
 
 // Function to initiate the arc with wire retraction
 void initiateArc() {
